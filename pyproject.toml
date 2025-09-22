@@ -1,0 +1,25 @@
+[project]
+name = "ui-in-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "authlib>=1.6.1",
+    "dearpygui>=2.1.0",
+    "descope>=1.7.7",
+    "eel>=0.18.2",
+    "flet[all]>=0.28.3",
+    "gooey>=1.0.8.1",
+    "justpy>=0.14.0",
+    "legacy-cgi>=2.6.3",
+    "nicegui>=2.21.1",
+    "pyserial>=3.5",
+    "pywebview>=5.4",
+    "remi>=2022.7.27",
+    "textual>=5.0.1",
+    "toga>=0.5.2",
+]

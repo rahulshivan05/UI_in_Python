@@ -1,0 +1,11 @@
+textual
+remi
+nicegui
+flet
+eel
+dearpygui
+pywebview
+toga
+justpy
+Gooey
+
